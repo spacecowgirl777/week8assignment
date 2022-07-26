@@ -1,0 +1,57 @@
+.nav {
+    text-align: center;
+}
+
+.listImg {
+    float: right;
+}
+
+.button, .inputs {
+    background-color: #000;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    color: #fff;
+    
+}
+
+.button:hover {
+   border: 1px solid #000;
+   box-shadow: 0 0 13px  #fff;
+
+}
+
+
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial;  
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+h1,h2,h3,form {
+    text-align: center;
+}
+h3 {
+    color: #808080;
+}
+img {
+    margin: auto;
+    display: block;
+    
+}
+table {
+    margin-right: auto;
+    margin-left: auto;
+    border-spacing: 50px 10px;
+}
+th {
+    text-align: left;
+}
+
+
+ul {
+    list-style-type: none;
+}
